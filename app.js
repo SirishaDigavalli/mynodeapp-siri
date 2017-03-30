@@ -63,6 +63,8 @@ var conversation = new Conversation({
   // username: '<username>',
   // password: '<password>',
   url: 'https://gateway.watsonplatform.net/conversation/api',
+   username: "04fb768b-c7a4-489f-9494-91fa4a1114e1",
+   password: "Br0j4TmK5xuh",
   version_date: '2016-10-21',
   version: 'v1'
 });
